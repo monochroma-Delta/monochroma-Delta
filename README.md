@@ -1,5 +1,5 @@
 # 💫 About Me:
-▷ Illustrator / Artist / Gamedev<br>▷ ENG-TR |<br>▷ Jan 23
+▷ Illustrator / Artist / Gamedev<br>▷ ENG-TR <br>▷ Jan 23
 
 
 ## 🌐 Socials:
