@@ -1,3 +1,5 @@
+![](https://media1.tenor.com/m/VPuOIpYsgdgAAAAC/saber-alter-fate-stay-night.gif)
+
 # ▷ About Me:
 ▷ Illustrator / Artist / Gamedev<br>▷ ENG-TR <br>▷ Jan 23
 
@@ -8,5 +10,3 @@
 # ▷ Programs:
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-![](https://media1.tenor.com/m/VPuOIpYsgdgAAAAC/saber-alter-fate-stay-night.gif)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
