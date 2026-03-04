@@ -12,7 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=monochroma-Delta&theme=solarized-light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monochroma-Delta&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=monochroma-Delta&icon=2&color=11)](https://visitcount.itsvg.in)
+<div class="tenor-gif-embed" data-postid="25889466" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/saber-alter-fate-stay-night-unlimited-blade-works-gif-25889466">Saber Alter Fate Stay Night GIF</a>from <a href="https://tenor.com/search/saber+alter-gifs">Saber Alter GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
