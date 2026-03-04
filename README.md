@@ -12,5 +12,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=monochroma-Delta&theme=solarized-light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monochroma-Delta&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://tenor.com/bUNcc.gif)
+![](https://media1.tenor.com/m/VPuOIpYsgdgAAAAC/saber-alter-fate-stay-night.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
