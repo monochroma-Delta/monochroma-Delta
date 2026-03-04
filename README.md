@@ -4,7 +4,7 @@
 
 #
 # ▷ About Me:
-⟣ Illustrator / Artist / Gamedev<br>⟣ ENG-TR <br>⟣ Jan 23 <br>⟣ Currently on a break until summer
+⟣ Illustrator / Artist / Gamedev<br>⟣ ENG/TR <br>⟣ January 23 <br>⟣ Currently on a break until summer
 
 
 # ▷ Socials:
