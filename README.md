@@ -4,7 +4,7 @@
 
 #
 # **▷ About Me:**
-**⟣ Illustrator / Artist / Gamedev<br>⟣ ENG/TR <br>⟣ 18 years old <br>⟣ January 23 <br>⟣ Currently on a break, I wont be able to code or draw things until summer**
+**⟣ Illustrator / Artist / Gamedev<br>⟣ He/Him <br>⟣ ENG/TR <br>⟣ 18 years old <br>⟣ January 23 <br>⟣ Currently on a break, I wont be able to code or draw things until summer**
 
 
 # **▷ Social Links:**
@@ -16,7 +16,7 @@
 
 ![](https://media.tenor.com/IZaCakX4SuYAAAAi/ultrakill-brick.gif)
 #
-**<br>I will parry all these bad thoughts and win this thing.**
+**<br>I will parry all these bad thoughts that strike me to death.**
 <br> **-Deltα**
 #
 
