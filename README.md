@@ -17,6 +17,5 @@
 ![](https://media.tenor.com/IZaCakX4SuYAAAAi/ultrakill-brick.gif)
 #
 **<br>I will parry all these bad thoughts that strike me to death.**
-<br> **-Deltα**
-#
+
 
