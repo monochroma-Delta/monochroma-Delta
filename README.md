@@ -14,8 +14,4 @@
 [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/tr/)<br>[![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org)
 #
 
-![](https://media.tenor.com/IZaCakX4SuYAAAAi/ultrakill-brick.gif)
-#
-**<br>I will parry all these bad thoughts that strike me to death.**
-
 
